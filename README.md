@@ -312,3 +312,6 @@ Create Security group which allow the port 80.
                                                
 **After the plugins have been downloaded, we do terraform apply.**                                                
 **We give our approval when the permission is asked.**
+
+
+![](output.png) 
