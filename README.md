@@ -294,7 +294,7 @@ Create Security group which allow the port 80.
                                                        }
                                                 }
                                                 
-**Now, we go to /var/www/html & update the link of the images with the link from CloudFront.
+**Now, we go to /var/www/html & update the link of the images with the link from CloudFront.**
 
 **Step - 12** Now, we write a terraform code snippet to automatically retrieve the public ip of our instance and open it in chrome. This will land us on the home page of our website that is present in /var/www/html.
 
@@ -310,5 +310,5 @@ Create Security group which allow the port 80.
 
                                                 terraform init
                                                
-**After the plugins have been downloaded, we do terraform apply.                                                
-**We give our approval when the permission is asked.
+**After the plugins have been downloaded, we do terraform apply.**                                                
+**We give our approval when the permission is asked.**
