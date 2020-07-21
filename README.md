@@ -314,7 +314,7 @@ Create Security group which allow the port 80.
 **We give our approval when the permission is asked.**
 
 
-# Finally, we see our webserver nad its content
+# Finally, we see our webserver and its content
 
 
 ![](/Output.png)
