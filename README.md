@@ -1,4 +1,4 @@
-# Why Cloud?
+# Cloud?
 “If someone asks me what cloud computing is,
  I try not to get bogged down with definitions.
  I tell them that, simply put,
@@ -312,6 +312,9 @@ Create Security group which allow the port 80.
                                                
 **After the plugins have been downloaded, we do terraform apply.**                                                
 **We give our approval when the permission is asked.**
+
+
+# Finally, we see our webserver nad its content
 
 
 ![](/Output.png)
