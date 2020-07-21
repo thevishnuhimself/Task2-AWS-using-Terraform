@@ -314,4 +314,4 @@ Create Security group which allow the port 80.
 **We give our approval when the permission is asked.**
 
 
-![](images/Output.png)
+![](/Output.png)
