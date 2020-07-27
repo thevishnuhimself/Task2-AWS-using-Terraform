@@ -9,11 +9,11 @@ And he’s right. In a cost-benefit analysis, the cloud offers better tech for l
 
 _**A Terraform code is similar for all clouds and it also helps in maintaining records of what all has been done.**_
 
-# The Problem
-The problem here arises that different clouds have different CLI commands. Hence, it poses a problem for Cloud Engineers.
+# The problem we have- 
+Different clouds have different CLI commands. Hence, it poses a problem for Cloud Engineers.
 
-# The Solution
-The solution lies in using a single method that can be used for all the clouds. One such tool is Terraform. A Terraform code is similar for all clouds and it also helps in maintaining records of what all has been done.
+# The Solution we have- 
+We have the solution that using a single method that can be used for all the clouds. One such tool is Terraform. A Terraform code is similar for all clouds and it also helps in maintaining records of what all has been done.
 
 **Steps that are to be taken in making this project:-
 Create Security group which allow the port 80.
